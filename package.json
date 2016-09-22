@@ -1,0 +1,27 @@
+{
+  "name": "florentplomb",
+  "version": "1.0.0",
+  "description": "My resume",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florentplomb/FlorentPlombSite.git"
+  },
+  "keywords": [
+    "florent",
+    "plomb",
+    "resume"
+  ],
+  "author": "florent plomb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florentplomb/FlorentPlombSite/issues"
+  },
+  "homepage": "https://github.com/florentplomb/FlorentPlombSite#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
