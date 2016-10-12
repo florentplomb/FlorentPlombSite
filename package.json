@@ -22,6 +22,13 @@
   },
   "homepage": "https://github.com/florentplomb/FlorentPlombSite#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express": "^1.4.1",
+    "grunt-parallel": "^0.5.1"
+  },
+  "devDependencies": {
+    "grunt-open": "^0.2.3"
   }
 }
