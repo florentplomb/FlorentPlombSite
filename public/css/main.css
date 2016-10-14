@@ -5,6 +5,8 @@
 *******Typography******
 **************************/
 
+.top-buffer { margin-top:20px; }
+
 body {
   background: #fff;
   font-family: 'Open Sans', sans-serif;
